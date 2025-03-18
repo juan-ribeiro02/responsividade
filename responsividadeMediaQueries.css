@@ -1,0 +1,49 @@
+@media only screen and (max-width:1130px){
+    body{
+        background-color:brown;
+    }
+
+    .corpo{
+        background-color: #fff;
+        width: 600px;
+    }
+
+    .corpo img {
+        height: 270px;
+    }
+    
+}
+
+@media only screen and (max-width: 910px){
+    body{
+        background-color: aqua;
+    }
+
+    .corpo{
+        background-color: #fff;
+        width: 500px; 
+    }
+
+    .corpo img {
+        height: 270px;
+    }
+}
+
+@media only screen and (max-width: 550px){
+    body{
+        background-color: blueviolet;
+    }
+    
+    .corpo{
+        background-color: #fff;
+        width: 300px;
+    }
+
+    .corpo img {
+        height: 170px;
+    }
+
+    .corpo h1{
+        font-size: 20px;
+    }
+}
